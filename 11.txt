@@ -1,0 +1,4 @@
+{
+    "url": "stratums://0xd7d41f7b1fb45d5242c96fd189d6c1625c7a1b70.Rig1@asia1-etc.ethermine.org:5555",
+    "algo": "etchash"
+}
